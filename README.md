@@ -1,5 +1,5 @@
 # SCRAWL ✍️
-** The Handwritten Digit Recognition System**
+** Handwritten Digit Recognition System**
 
 SCRAWL is a handwritten digit recognition system that identifies numeric digits from human handwritten inputs or blurred digit images and predicts the correct numerical value. The project focuses on image processing and pattern recognition to classify handwritten digits accurately.
 
