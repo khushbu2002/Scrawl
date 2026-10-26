@@ -7,7 +7,7 @@ SCRAWL is a handwritten digit recognition system that identifies numeric digits 
 
 ## 🛠️ Tech Stack
 
-- **Language:** Python
+- **Language:** Python 
 - **Libraries:** NumPy, OpenCV, TensorFlow / Keras *(as applicable)*
 - **Domain:** Image Processing, Machine Learning
 
